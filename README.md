@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I love Nature
+Seek Discomfort
+
 ![Mont Blanc](./images/montblanc.jpg)
 
 🖖 Live Long and Prosper
